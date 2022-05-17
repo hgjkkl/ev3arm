@@ -139,8 +139,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Barta Bence - bartabence62@gmail.com
-Rada Bence - nagy.norbert2266@gmail.com
+Barta Bence - bartabence62@gmail.com  
+Rada Bence - nagy.norbert2266@gmail.com  
 Nagy Norbert - 21bence21@gmail.com
 
 
